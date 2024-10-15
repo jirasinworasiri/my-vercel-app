@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <h1>Welcome to My Vercel App</h1>
+      <h1>Welcome to My Vercel Hello App</h1>
       <p> This is a simple React app deployed on Vercel. </p>
         <a
           className="App-link"
